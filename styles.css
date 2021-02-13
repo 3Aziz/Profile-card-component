@@ -22,7 +22,6 @@ body {
     margin: 0px -400px -450px 0px;
  }
  .card{
-     position: absolute;
      display: flex;
      justify-content: center;
      align-items: center;
